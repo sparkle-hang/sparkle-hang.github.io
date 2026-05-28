@@ -30,12 +30,6 @@ And we started our own Studio **JINWEI Consulting** to find out more interesting
 - [BNP Paribas-‘Ace-Manager’](https://group.bnpparibas/en/press-release/ace-manager-team-insight-wins-eighth-edition-bnp-paribas-online-business-competition) Business Challenge Global TOP100
 - [COMAP-The Mathematical Contest in Modeling (MCM)®](https://www.contest.comap.com/undergraduate/contests/) Honorable Mention (H)
 
-## Projects
-
-- **Post-Investment Strategy Project — Hillhouse / Philips Small Appliances**: Advised Hillhouse post-investment in Philips' small appliance unit to enable new sector expansion and product incubation. Supported business group setup from zero and sustained financial growth.
-- **Tencent Live Streaming Platform's Business Innovation & Implementation**: Focused on Tencent's Long-Form Video Business Group's live streaming content and business, conducted indepth research on top 100 +MCN agencies, analyzed leading live streaming platforms across dimensions including user profiling, content strategies, engagement, transactions, etc. to identify business directions.
-
-
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
