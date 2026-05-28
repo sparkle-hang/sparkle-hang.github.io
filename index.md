@@ -10,7 +10,7 @@ I am about to start an MS Programme at [**Boston University CS**](https://www.bu
 
 Before joining BU's MS program, I finished my master’s degree at [Shanghai University of Finance and Economics](https://www.sufe.edu.cn) (SUFE, USNews681), China, major in Economic Statistics, where I co-worked with **DIDICHUXING Co.** and **[Shaoli Wang(YALE)](https://ssds.sufe.edu.cn/92/ca/c712a234186/page.htm)** on solving problems on [Post-Acceptance Cancellations in Brazil's Ride-Hailing Market](https://d.wanfangdata.com.cn/thesis/Y4197196). I have my double bachelor’s degree at [East China Normal University](https://www.ecnu.edu.cn) (ECNU, QS433, USNews230), major in Mathematics, and Finance.
 
-And we started our own Studio **JINWEI Consulting** to find out more interesting things!
+And we started our own Studio **JINWEI Consulting** to find out more interesting things! We have our own vibe-coding project collection at here.
 
 ## Research Interests
 
