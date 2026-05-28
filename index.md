@@ -21,9 +21,20 @@ And we started our own Studio **JINWEI Consulting** to find out more interesting
 ## News
 
 - **[Oct. 2026]** We started our own Studio **JINWEI Consulting** and about to release our first GAME ***Attention is all you need*** on steam (all through Claude Code vibe-coding)!
-- **[Oct. 2023]** I joined **JIDU Automobile Co.(Join-venture Baidu and Geely)** as Marketing & GTM Strategy Business Partner.
-- **[Oct. 2021]** I joined **DIDICHUXING** as Strategy Business Partner, where I released my paper [Post-Acceptance Cancellations in Brazil's Ride-Hailing Market](https://d.wanfangdata.com.cn/thesis/Y4197196)
+- **[Oct. 2023]** I joined [**JIDU Automobile Co.(Join-venture Baidu and Geely)**](https://www.jiyue-auto.com) as Marketing & GTM Strategy Business Partner.
+- **[Oct. 2021]** I joined [**DIDICHUXING**](https://web.didiglobal.com) as Strategy Business Partner, where I released my paper [Post-Acceptance Cancellations in Brazil's Ride-Hailing Market](https://d.wanfangdata.com.cn/thesis/Y4197196)
 - **[Dec. 2020]** I spent 3 years at [WIETOP](https://wietop.com) as Qualitative/Quantitative Research Manager. I joined [Meritco-Services](https://meritco-group.com) as Senior Research Manager, focusing on **Commercial Due Diligence**.
+
+## Honor
+
+- [BNP Paribas-‘Ace-Manager’](https://group.bnpparibas/en/press-release/ace-manager-team-insight-wins-eighth-edition-bnp-paribas-online-business-competition) Business Challenge Global TOP100
+- [COMAP-The Mathematical Contest in Modeling (MCM)®](https://www.contest.comap.com/undergraduate/contests/) Honorable Mention (H)
+
+## Projects
+
+- **Post-Investment Strategy Project — Hillhouse / Philips Small Appliances**: Advised Hillhouse post-investment in Philips' small appliance unit to enable new sector expansion and product incubation. Supported business group setup from zero and sustained financial growth.
+- **Tencent Live Streaming Platform's Business Innovation & Implementation**: Focused on Tencent's Long-Form Video Business Group's live streaming content and business, conducted indepth research on top 100 +MCN agencies, analyzed leading live streaming platforms across dimensions including user profiling, content strategies, engagement, transactions, etc. to identify business directions.
+
 
 {% include_relative _includes/publications.md %}
 
