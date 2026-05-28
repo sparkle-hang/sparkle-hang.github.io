@@ -16,7 +16,7 @@ And we started our own Studio **JINWEI Consulting** to find out more interesting
 
 - **Economics Statistics:** Numerical Analysis, Programming Languages
 - **Machine Learning:** meta-learning, incremental learning
-- **Game Theroy.**
+- **All things vibe-coding can do.**
 
 ## News
 
