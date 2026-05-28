@@ -18,7 +18,7 @@ Before joining the BU's MBA program, I finished my master’s degree at [Shangha
 
 ## News
 
-- **[Oct. 2026]** We started our own Studio **JINWEI Consulting** and about to release our first GAME ***<<<Attention is all you need>>>*** on steam (all through Claude Code vibe-coding)!
+- **[Oct. 2026]** We started our own Studio **JINWEI Consulting** and about to release our first GAME ***Attention is all you need*** on steam (all through Claude Code vibe-coding)!
 - **[Oct. 2023]** I joined **JIDU Automobile Co.(Join-venture Baidu and Geely)** as Marketing & GTM Strategy Business Partner.
 - **[Oct. 2021]** I joined **DIDICHUXING** as Strategy Business Partner, where I released my paper [Post-Acceptance Cancellations in Brazil's Ride-Hailing Market](https://d.wanfangdata.com.cn/thesis/Y4197196)
 - **[Dec. 2020]** I spent 3 years at [WIETOP](https://wietop.com) as Qualitative/Quantitative Research Manager. I joined [Meritco-Services](https://meritco-group.com) as Senior Research Manager, focusing on **Commercial Due Diligence**.
