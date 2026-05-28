@@ -4,19 +4,25 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi this is Yuhang He/Stephanie He/何裕航! 
+
+I am about to start an MBA student at **Boston University**.
+
+Before joining the BU's MBA program, I finished my master’s degree at [Shanghai University of Finance and Economics](https://www.sufe.edu.cn) (SUFE, USNews681), China, major in Economic Statistics, where I co-worked with **DIDICHUXING** and **[Shaoli Wang(YALE)](https://ssds.sufe.edu.cn/92/ca/c712a234186/page.htm)** on solving [Post-Acceptance Cancellations in Brazil's Ride-Hailing Market](https://d.wanfangdata.com.cn/thesis/Y4197196). I have my bachelor’s degree at [East China Normal University](https://) (ECNU, QS433, USNews230), major in Mathematics.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Economics Statistics:** Numerical Analysis, Programming Languages
+- **Machine Learning:** meta-learning, incremental learning
+- **Game Theroy**
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2026]** We started our own Studio **JINWEI Consulting** and about to release our first GAME (all through claude code vibe-coding)!
+- **[Oct. 2023]** I joined **JIDU Automobile Co.(Join-venture Baidu and Geely)** as Marketing & GTM Strategy Business Partner.
+- **[Oct. 2021]** I joined **DIDICHUXING** as Strategy Business Partner, where I released my paper [Post-Acceptance Cancellations in Brazil's Ride-Hailing Market](https://d.wanfangdata.com.cn/thesis/Y4197196)
+- **[Dec. 2020]** I spent 3 years at WIETOP as Qualitative/Quantitative Research Manager. I joined Meritco-Services as Senior Research Manager, focusing on **Commercial Due Diligence**.
+- **[Dec. 2020]**
 
 {% include_relative _includes/publications.md %}
 
