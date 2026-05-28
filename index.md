@@ -8,7 +8,7 @@ Hi this is Yuhang He/Stephanie He/何裕航!
 
 I am about to start an MBA at **Boston University**.
 
-Before joining the BU's MBA program, I finished my master’s degree at [Shanghai University of Finance and Economics](https://www.sufe.edu.cn) (SUFE, USNews681), China, major in Economic Statistics, where I co-worked with **DIDICHUXING Co.** and **[Shaoli Wang(YALE)](https://ssds.sufe.edu.cn/92/ca/c712a234186/page.htm)** on solving problems on [Post-Acceptance Cancellations in Brazil's Ride-Hailing Market](https://d.wanfangdata.com.cn/thesis/Y4197196). I have my double bachelor’s degree at [East China Normal University](https://www.ecnu.edu.cn) (ECNU, QS433, USNews230), major in Mathematics, and Finance.
+Before joining BU's MBA program, I finished my master’s degree at [Shanghai University of Finance and Economics](https://www.sufe.edu.cn) (SUFE, USNews681), China, major in Economic Statistics, where I co-worked with **DIDICHUXING Co.** and **[Shaoli Wang(YALE)](https://ssds.sufe.edu.cn/92/ca/c712a234186/page.htm)** on solving problems on [Post-Acceptance Cancellations in Brazil's Ride-Hailing Market](https://d.wanfangdata.com.cn/thesis/Y4197196). I have my double bachelor’s degree at [East China Normal University](https://www.ecnu.edu.cn) (ECNU, QS433, USNews230), major in Mathematics, and Finance.
 
 ## Research Interests
 
