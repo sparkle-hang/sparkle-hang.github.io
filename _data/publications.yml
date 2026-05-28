@@ -6,7 +6,7 @@ main:
     conference: Preprint.
     pdf: https://d.wanfangdata.com.cn/thesis/Y4197196
     code: https://github.com/sparkle-hang
-    page: ./assets/img/paperppt.pdf
+    page: ./assets/files/paperppt.pdf
     bibtex: https://d.wanfangdata.com.cn/thesis/Y4197196
     notes: Oral Presentation
     image: ./assets/img/teaser.png
